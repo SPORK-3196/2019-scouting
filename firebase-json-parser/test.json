@@ -1,0 +1,9 @@
+[
+    {
+        "match": "1",
+        "team_num": "123",
+        "scout": "John Smith",
+        "teleop-hatch": "2",
+        "teleop-cargo": "3"
+    }
+]

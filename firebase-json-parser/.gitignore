@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/firebase-json-parser
+firebase-json-parser.so
+firebase-json-parser.dylib
+firebase-json-parser.dll
+firebase-json-parser.a
+firebase-json-parser.lib
+firebase-json-parser-test-*
+*.exe
+*.o
+*.obj
+*.lst

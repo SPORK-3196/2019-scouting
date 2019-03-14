@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"FRC 3196 - Team SPORK"
+	],
+	"copyright": "Copyright © 2019, FRC 3196 - Team SPORK",
+	"description": "Converts JSON files from Firebase to CSV for importing into spreadsheets.",
+	"license": "proprietary",
+	"name": "firebase-json-parser"
+}
